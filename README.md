@@ -1,2 +1,2 @@
-# CS61a-24sp
+# CS61b-24sp
 The place where dreams begin
